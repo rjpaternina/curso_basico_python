@@ -30,6 +30,6 @@ def suma(a, b):
     resultado = a + b
     return resultado
 
-sumatoria = suma(1, 4)
+sumatoria = suma(3, 4)
 print (sumatoria)
     
